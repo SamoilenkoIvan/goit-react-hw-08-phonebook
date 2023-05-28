@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.07d3183d.js",
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.51ada490.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.e4fa655a.js",
+    "static/js/52.636d5ffc.chunk.js": "/goit-react-hw-08-phonebook/static/js/52.636d5ffc.chunk.js",
+    "static/js/516.4cf8c1a7.chunk.js": "/goit-react-hw-08-phonebook/static/js/516.4cf8c1a7.chunk.js",
+    "static/js/810.60be62a5.chunk.js": "/goit-react-hw-08-phonebook/static/js/810.60be62a5.chunk.js",
+    "static/js/494.ba08bbb8.chunk.js": "/goit-react-hw-08-phonebook/static/js/494.ba08bbb8.chunk.js",
+    "static/js/129.725acff7.chunk.js": "/goit-react-hw-08-phonebook/static/js/129.725acff7.chunk.js",
+    "static/media/img3.jpeg": "/goit-react-hw-08-phonebook/static/media/img3.61486c8ea3c3a198b34a.jpeg",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-08-phonebook/static/js/main.07d3183d.js.map"
+    "main.51ada490.css.map": "/goit-react-hw-08-phonebook/static/css/main.51ada490.css.map",
+    "main.e4fa655a.js.map": "/goit-react-hw-08-phonebook/static/js/main.e4fa655a.js.map",
+    "52.636d5ffc.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/52.636d5ffc.chunk.js.map",
+    "516.4cf8c1a7.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/516.4cf8c1a7.chunk.js.map",
+    "810.60be62a5.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/810.60be62a5.chunk.js.map",
+    "494.ba08bbb8.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/494.ba08bbb8.chunk.js.map",
+    "129.725acff7.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/129.725acff7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.51ada490.css",
+    "static/js/main.e4fa655a.js"
   ]
 }

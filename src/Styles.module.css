@@ -132,7 +132,7 @@
     font-weight: 800;
     font-size: 30px;
     transition-duration: var(--transition__duration);
-    color: var(--bg__color);
+    color: blueviolet;
   }
   .home__linc:hover,
   .active {
@@ -147,7 +147,7 @@
     display: flex;
     justify-content: center;
     font-weight: 800;
-    color: var(--secondary__color);
+    color: greenyellow;
   }
   
   .please {
